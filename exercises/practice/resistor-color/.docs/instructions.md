@@ -34,3 +34,8 @@ The goal of this exercise is to create a way:
 Mnemonics map the colors to the numbers, that, when stored as an array, happen to map to their index in the array: Better Be Right Or Your Great Big Values Go Wrong.
 
 More information on the color encoding of resistors can be found in the [Electronic color code Wikipedia article](https://en.wikipedia.org/wiki/Electronic_color_code)
+
+## What do you need to do
+
+1. Create a global constant array named `COLORS` with all color names mentioned above (lowercase)
+2. function recieves color name as an argument and must return a number (resistance value) of the given color
